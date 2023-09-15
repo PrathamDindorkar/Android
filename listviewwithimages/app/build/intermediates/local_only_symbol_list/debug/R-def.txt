@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable amgone
+drawable camarozl1
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable lambo
+drawable maclarenp1
+drawable mustang
+id imageView
+id listView
+id textView
+layout activity_main
+layout list_items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Listviewwithimages
+style Theme.Listviewwithimages
+xml backup_rules
+xml data_extraction_rules
